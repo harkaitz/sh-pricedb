@@ -10,7 +10,7 @@ pricedb
     
     Maintain the prices of "commodities" "ledger(1)" in ~/.pricedb updated
     by executing commands listed in ~/.pricedb.cfg or ${PRICEDB_CFG}.
-
+    
     The format of ~/.pricedb.cfg is:
     
         COMMODITY CURRENCY COMMAND...
